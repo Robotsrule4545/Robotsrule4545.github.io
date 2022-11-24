@@ -1,0 +1,28 @@
+{
+  "name": "robotsrule4545.github.io",
+  "version": "1.0.0",
+  "description": "Robot0730's website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx @eleventy/11ty",
+    "test": "echo Testing && echo sussy amongus"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Robotsrule4545/Robotsrule4545.github.io.git"
+  },
+  "keywords": [
+    "Website",
+    "Github",
+    "pages"
+  ],
+  "author": "Robotsrule4545",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Robotsrule4545/Robotsrule4545.github.io/issues"
+  },
+  "homepage": "https://github.com/Robotsrule4545/Robotsrule4545.github.io#readme",
+  "devDependencies": {
+    "@11ty/eleventy": "^1.0.2"
+  }
+}
